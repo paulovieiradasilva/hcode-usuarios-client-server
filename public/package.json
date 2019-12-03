@@ -1,0 +1,27 @@
+{
+  "name": "curso-javascript-projeto-usuarios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hcodebr/curso-javascript-projeto-usuarios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hcodebr/curso-javascript-projeto-usuarios/issues"
+  },
+  "homepage": "https://github.com/hcodebr/curso-javascript-projeto-usuarios#readme",
+  "devDependencies": {
+    "eslint": "^6.7.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
